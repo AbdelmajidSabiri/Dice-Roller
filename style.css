@@ -9,6 +9,8 @@ form{
    margin: auto;
    padding-bottom: 20px;
    padding-top: 2px;
+   box-shadow: 5px 5px 15px hsla(0, 0%, 0%, 0.334);
+
 }
 input{
     text-align: center;
